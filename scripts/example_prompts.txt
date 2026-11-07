@@ -1,0 +1,29 @@
+Explain the difference between speculative decoding and contrastive decoding, and when each is worth using.
+
+Write a Python function that returns the first 10 prime numbers greater than N, with doctests.
+
+Summarize the plot of a novel about a detective who investigates a crime committed in a simulated reality.
+
+List three ways to reduce KV-cache memory in a long-context transformer serving stack, with tradeoffs.
+
+Translate this into Japanese and Spanish: "The server handles 128 concurrent streams with sub-second TTFT."
+
+Draft a release note for a software update that doubles prefill throughput while lowering idle GPU memory.
+
+What is a value-residual connection in a transformer, and how does it interact with full-attention layers every 5th layer?
+
+Design a decision procedure to choose between a 2-bit, 3-bit and 4-bit draft for a given target model.
+
+Compare the tradeoffs of sliding-window attention versus full attention at context lengths beyond 64K tokens.
+
+Write a short haiku about a GPU that never sleeps, then explain the line about the memory pool.
+
+Given a stream of tokens, how would you detect when a speculative draft's acceptance rate collapsed to 1.0?
+
+Produce a JSON tool-call transcript for querying weather in Paris, London and Tokyo, with reasoning shown first.
+
+Explain why counting SSE chunks undercounts decode speed under speculative decoding, and the correct measurement.
+
+What hardware would you pick to serve a 65B 5.41bpw model with a 4.55bpw draft at 64 tok/s, and why?
+
+Rewriting the paragraph below in a neutral, factual tone: "Our plugin is the fastest way to run this model, period."
